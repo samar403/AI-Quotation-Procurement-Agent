@@ -1,0 +1,4 @@
+supplier,product,category,price,unit,moq,stock,lead_time_days,gsm,width,count,composition,color,finish
+Kavya Looms,Polyester Georgette,Polyester & Synthetics,44.5,m,1000,15000,5,80,44,,100% polyester,,dyed
+Narmada Textile Mills,Cotton Poplin,Cotton Fabric,86,m,500,9000,8,110,58,40x40,100% cotton,white,RFD
+Sutlej Woollens,Linen Cotton Blend,Linen & Blends,238,m,300,4000,9,150,58,,55/45 linen cotton,,dyed
